@@ -16,4 +16,4 @@ Aplicação com interface gráfica desenvolvida em Python para organizar arquivo
 ## ▶️ Como executar
 ```bash
 pip install -r requirements.txt
-python app.py
+python organizador.py
